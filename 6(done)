@@ -1,0 +1,2 @@
+[ABC] - one character from 'A' 'B' 'C'
+[^abc] - any other character than 'a' 'b' 'c'
